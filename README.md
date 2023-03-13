@@ -14,9 +14,9 @@
 
 
 
-<div align="center">
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ParkYoDo)](https://github.com/ParkYoDo/github-readme-stats)
-</div>
+
 
 
 
