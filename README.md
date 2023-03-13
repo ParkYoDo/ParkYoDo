@@ -1,4 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&animation=fadeIn&section=footer&text=🇰🇷🙋🏻‍♂ParkYoDo's%20Gitgub️🖥️💻&fontAlignX=50&fontAlignY=70&fontSize=55)
+<br>
 
 <h3 align="center">📚  Tech Stack 📚 </h3>
 <p align="center">
@@ -11,12 +12,11 @@
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/Styled_component-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
 </p>
+<br>
 
-
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ParkYoDo)](https://github.com/ParkYoDo/github-readme-stats)
-
+<div align="center">
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ParkYoDo)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 
 
