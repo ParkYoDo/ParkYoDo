@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&animation=fadeIn&section=footer&text=🇰🇷🙋🏻‍♂ParkYoDo's%20Gitgub️🖥️💻&fontAlignX=50&fontAlignY=70&fontSize=55)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&animation=fadeIn&section=footer&text=🇰🇷🙋🏻‍♂ParkYoDo's%20Gitgub️🖥️💻&fontAlignX=50&fontAlignY=70&fontSize=50)
 <br>
 
 <h3 align="center">📚  Tech Stack 📚 </h3>
@@ -15,7 +15,7 @@
 <br>
 
 <div align="center">
-
+  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ParkYoDo)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
